@@ -30,7 +30,7 @@
     "mongoose": "^4.11.11",
     "mongoose-auto-increment": "^5.0.1",
     "mongoose-unique-validator": "^1.0.6",
-    "nodemailer": "^4.6.3",
+    "nodemailer": "^6.4.16",
     "path": "^0.12.7",
     "request": "^2.88.0",
     "socket.io": "^2.2.0"
